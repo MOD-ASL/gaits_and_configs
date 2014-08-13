@@ -1,4 +1,16 @@
-Module_0 p0.0 p0.0 p0.0 p0.0 {a} ;
-Module_0 p0.0 p3.14 p3.14 p0.0 (a) ;
+Module_0 p0.0 p0.0 p0.0 p0.0 {a} ;	 		START
+Module_0 p0.0 p3.14 p3.14 p0.0 (a) ; 		MOVE FORWARD
 Module_1 p0.0 p3.14 p3.14 p0.0 (a) ;
 Module_2 p0.0 p3.14 p3.14 p0.0 (a) ;
+Module_0 i i i i [2000];					PAUSE 2 SEC
+Module_1 i i i i [2000];
+Module_2 i i i i [2000];
+Module_0 p0.0 p0.0 p0.0 p0.0 ;				MOVE BACKWARD
+Module_1 p0.0 p0.0 p0.0 p0.0 ;
+Module_2 p0.0 p0.0 p0.0 p0.0 ;
+Module_0 i i i i [2000];					PAUSE 2 SEC
+Module_1 i i i i [2000];
+Module_2 i i i i [2000];
+Module_0 i i i p-0.393 ;
+Module_1 i i i p-0.785 ;
+Module_2 i i i p-0.393 ;

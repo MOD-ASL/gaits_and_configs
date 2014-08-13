@@ -1,0 +1,30 @@
+Module_0 i i i p-0.8 ;	stand up
+Module_1 i i i p-0.7 ;
+Module_2 i i i p-0.8 ;
+Module_0 i i i i [1000];	pause 1 sec
+Module_1 i i i i [1000];
+Module_2 i i i i [1000];
+Module_2 i i i p0.4 [1000] ;		WIGGLE - front up
+Module_0 i i i i [1000];  
+Module_0 i i i p0.4 [1000] ;   		back up (push forward)
+Module_2 i i i i [1000] ;
+Module_2 i i i p-0.8 [1000] ;   front down(pull foward)
+Module_0 i i i i [1000];
+Module_0 i i i p-0.8 [1000]; 	back down (reset)
+Module_2 i i i i [1000];
+Module_2 i i i p0.4 [1000] ;		WIGGLE - front up
+Module_0 i i i i [1000];  
+Module_0 i i i p0.4 [1000] ;   		back up (push forward)
+Module_2 i i i i [1000] ;
+Module_2 i i i p-0.8 [1000] ;   front down(pull foward)
+Module_0 i i i i [1000];
+Module_0 i i i p-0.8 [1000]; 	back down (reset)
+Module_2 i i i i [1000];
+Module_2 i i i p0.4 [1000] ;		WIGGLE - front up
+Module_0 i i i i [1000];  
+Module_0 i i i p0.4 [1000] ;   		back up (push forward)
+Module_2 i i i i [1000] ;
+Module_2 i i i p-0.8 [1000] ;   front down(pull foward)
+Module_0 i i i i [1000];
+Module_0 i i i p-0.8 [1000]; 	back down (reset)
+Module_2 i i i i [1000];
