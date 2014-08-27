@@ -1,0 +1,15 @@
+// Turn the legs to grasp in ground plane
+Module_0 p0.0 p1.57 p0.0  p0.0 {a} ;
+Module_0 p0.0 p1.57 p1.57 p0.0 [500] {b} (a) ;
+Module_0 p0.0 p1.57 p1.57 p0.0 {c} (b) ;
+Module_0 p0.0 p1.57 p1.57 p0.0 [1000] {d} (c) ;
+// Move to grasp-ready position:
+Module_1 p0.0 p0.0 p0.0 p1.2 {e} (d) ; //shoulders
+Module_4 p0.0 p0.0 p0.0 p1.2 {e} (d) ;
+Module_2 p0.0 p0.0 p0.0 p0.5 {f} (e) ; //elbows
+Module_5 p0.0 p0.0 p0.0 p0.5 {f} (e) ;
+Module_3 p0.0 p0.0 p0.0 p1.3 {f} (e) ; //wrists
+Module_6 p0.0 p0.0 p0.0 p1.3 {f} (e) ; 
+// Squeeze together:
+
+
