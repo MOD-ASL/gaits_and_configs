@@ -1,0 +1,48 @@
+// List of modules:
+// 0:center 1:front-center 2:front-left 3:front-right 4:back-center 5:back-right 6:back-left
+// Stand up
+Module_2 p0.0 p0.0 p-0.0 p0.7 {a};
+Module_3 p0.0 p-0.0 p0.0 p0.7 {a};
+Module_1 p0.0 p0.0 p0.0 p0.5 {a};
+Module_0 p0.0 p0.0 p0.0 p-0.5 {a};
+Module_4 p0.0 p0.0 p0.0 p0.7 {a};
+Module_5 p0.0 p0.0 p0.0 p0.7 {a};
+Module_6 p0.0 p0.0 p0.0 p0.7 {a};
+// Drive forward
+Module_1 i p6.0 p6.0 i (a) {b};
+Module_2 i p6.0 p6.0 i (a) {b};
+Module_3 i p6.0 p6.0 i (a) {b};
+Module_4 i p6.0 p6.0 i (a) {b};
+Module_5 i p6.0 p6.0 i (a) {b};
+Module_6 i p6.0 p6.0 i (a) {b};
+// Turn left
+Module_4 p0.4 i i i (b) {c};
+Module_0 p-0.4 i i i (b) {c};
+// Drive forward
+Module_1 i p18.0 p18.0 i (c) {d};
+Module_2 i p18.0 p18.0 i (c) {d};
+Module_3 i p18.0 p18.0 i (c) {d};
+Module_4 i p18.0 p18.0 i (c) {d};
+Module_5 i p18.0 p18.0 i (c) {d};
+Module_6 i p18.0 p18.0 i (c) {d};
+// Turn right 
+Module_4 p-0.4 i i i (d) {e};
+Module_0 p0.4 i i i (d) {e};
+// Drive forward
+Module_1 i p32.0 p32.0 i (e) {f};
+Module_2 i p32.0 p32.0 i (e) {f};
+Module_3 i p32.0 p32.0 i (e) {f};
+Module_4 i p32.0 p32.0 i (e) {f};
+Module_5 i p32.0 p32.0 i (e) {f};
+Module_6 i p32.0 p32.0 i (e) {f};
+// Turn baek straight 
+Module_4 p0.0 i i i (f) {g};
+Module_0 p0.0 i i i (f) {g};
+// Drive forward
+Module_1 i p48.0 p48.0 i (g) {h};
+Module_2 i p48.0 p48.0 i (g) {h};
+Module_3 i p48.0 p48.0 i (g) {h};
+Module_4 i p48.0 p48.0 i (g) {h};
+Module_5 i p48.0 p48.0 i (g) {h};
+Module_6 i p48.0 p48.0 i (g) {h};
+
