@@ -1,0 +1,3 @@
+Gripper_0 p0.0 p4.712388978 p4.712388978 p0.0 {Section_1} ;
+Gripper_0 p0.0 p6.283185305 p3.1415926 p0.0 {Section_1} (Section_0) ;
+Gripper_0 p0.0 p9.424777905 p6.283185305 p0.0 {Section_2} (Section_1) ;
