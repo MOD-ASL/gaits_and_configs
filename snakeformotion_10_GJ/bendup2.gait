@@ -1,0 +1,17 @@
+Module_0 p0.0 p0.0 p0.0 p1.57079632679 {Section_0} ;
+Module_1 p0.0 p0.0 p0.0 p1.57079632679 {Section_0} ;
+Module_0 p0.0 p0.0 p0.0 p-1.57079632679 {Section_1} (Section_0) ;
+Module_2 p0.0 p0.0 p0.0 p1.57079632679 {Section_1} (Section_0) ;
+Module_1 p0.0 p0.0 p0.0 p0.0 {Section_2} (Section_1) ;
+Module_3 p0.0 p0.0 p0.0 p1.57079632679 {Section_2} (Section_1) ;
+Module_2 p0.0 p0.0 p0.0 p0.0 {Section_3} (Section_2) ;
+Module_4 p0.0 p0.0 p0.0 p1.57079632679 {Section_3} (Section_2) ;
+Gripper_0 p0.0 p0.0 p0.0 p1.57079632679 {Section_4} (Section_3) ;
+Module_1 p0.0 p0.0 p0.0 p-1.57079632679 {Section_4} (Section_3) ;
+Module_0 p0.0 p0.0 p0.0 p0.0 {Section_5} (Section_4) ;
+Module_2 p0.0 p0.0 p0.0 p-1.57079632679 {Section_5} (Section_4) ;
+Module_1 p0.0 p0.0 p0.0 p0.0 {Section_6} (Section_5) ;
+Module_2 p0.0 p0.0 p0.0 p0.0 {Section_6} (Section_5) ;
+Module_3 p0.0 p0.0 p0.0 p0.0 {Section_6} (Section_5) ;
+Gripper_0 p0.0 p0.0 p0.0 p0.0 {Section_7} (Section_6) ;
+Module_0 p0.0 p0.0 p0.0 p-1.57079632679 {Section_7} (Section_6) ;
