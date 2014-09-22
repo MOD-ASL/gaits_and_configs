@@ -1,0 +1,5 @@
+f9_0 p1.57079632679 p0.0 p0.0 p0.0 {Section_0} ;
+f7_0 p1.57079632679 p0.0 p0.0 p0.0 {Section_0} ;
+f7_0 p0.0 p0.0 p0.0 p0.0 {Section_1} (Section_0) ;
+f7_0 p-1.57079632679 p0.0 p0.0 p0.0 {Section_2} (Section_1) ;
+f7_0 p0.0 p0.0 p0.0 p0.0 {Section_3} (Section_2) ;
