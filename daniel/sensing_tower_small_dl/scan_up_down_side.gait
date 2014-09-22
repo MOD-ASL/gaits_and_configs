@@ -1,0 +1,8 @@
+top_2 p0.0 p0.0 p0.0 p1.0471975512 {Section_0} ;
+top_1 p1.57079632679 p0.0 p0.0 p0.0 {Section_0} ;
+top_2 p0.0 p0.0 p0.0 p-1.0471975512 {Section_1} (Section_0) ;
+top_2 p0.0 p0.0 p0.0 p0.0 {Section_2} (Section_1) ;
+top_1 p-1.57079632679 p0.0 p0.0 p0.0 {Section_3} (Section_2) ;
+top_2 p0.0 p0.0 p0.0 p1.0471975512 {Section_3} (Section_2) ;
+top_2 p0.0 p0.0 p0.0 p-1.0471975512 {Section_4} (Section_3) ;
+top_2 p0.0 p0.0 p0.0 p0.0 {Section_5} (Section_4) ;
