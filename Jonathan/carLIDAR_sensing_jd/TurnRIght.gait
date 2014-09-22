@@ -1,0 +1,16 @@
+Module_2 p0.0 p0.0 p0.0 p-0.261799387799 {Section_0} ;
+Module_4 p0.0 p0.0 p0.0 p-0.261799387799 {Section_0} ;
+Module_6 p0.0 p0.0 p0.0 p-0.261799387799 {Section_0} ;
+Module_8 p0.0 p0.0 p0.0 p-0.261799387799 {Section_0} ;
+Module_8 p-1.74532925199 p0.0 p0.0 p-0.261799387799 {Section_1} (Section_0) ;
+Module_2 p-1.74532925199 p0.0 p0.0 p-0.261799387799 {Section_1} (Section_0) ;
+Module_4 p-1.74532925199 p0.0 p0.0 p-0.261799387799 {Section_1} (Section_0) ;
+Module_6 p-1.74532925199 p0.0 p0.0 p-0.261799387799 {Section_1} (Section_0) ;
+Module_6 p-1.74532925199 p0.0 p0.0 p0.0872664625997 {Section_2} (Section_1) ;
+Module_8 p-1.74532925199 p0.0 p0.0 p0.0872664625997 {Section_2} (Section_1) ;
+Module_4 p-1.74532925199 p0.0 p0.0 p0.0872664625997 {Section_2} (Section_1) ;
+Module_2 p-1.74532925199 p0.0 p0.0 p0.0872664625997 {Section_2} (Section_1) ;
+Module_2 p0.0 p0.0 p0.0 p0.0872664625997 {Section_3} (Section_2) ;
+Module_4 p0.0 p0.0 p0.0 p0.0872664625997 {Section_3} (Section_2) ;
+Module_6 p0.0 p0.0 p0.0 p0.0872664625997 {Section_3} (Section_2) ;
+Module_8 p0.0 p0.0 p0.0 p0.0872664625997 {Section_3} (Section_2) ;

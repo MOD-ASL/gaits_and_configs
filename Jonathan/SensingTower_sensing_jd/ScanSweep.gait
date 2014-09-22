@@ -1,0 +1,14 @@
+Range_finder_0 p0.0 p0.0 p0.0 p-0.349065850399 {Section_0} ;
+Range_finder_0 p0.0 p0.0 p0.0 p0.349065850399 {Section_1} (Section_0) ;
+Module_1 p0.349065850399 p0.0 p0.0 p0.0 {Section_2} (Section_1) ;
+Range_finder_0 p-0.436332312999 p0.0 p0.0 p0.349065850399 {Section_2} (Section_1) ;
+Module_1 p0.698131700798 p0.0 p0.0 p0.0 {Section_3} (Section_2) ;
+Range_finder_0 p0.436332312999 p0.0 p0.0 p0.349065850399 {Section_3} (Section_2) ;
+Module_1 p1.0471975512 p0.0 p0.0 p0.0 {Section_4} (Section_3) ;
+Range_finder_0 p-0.436332312999 p0.0 p0.0 p0.349065850399 {Section_4} (Section_3) ;
+Module_1 p-0.349065850399 p0.0 p0.0 p0.0 {Section_5} (Section_4) ;
+Range_finder_0 p0.436332312999 p0.0 p0.0 p0.349065850399 {Section_5} (Section_4) ;
+Module_1 p-0.698131700798 p0.0 p0.0 p0.0 {Section_6} (Section_5) ;
+Range_finder_0 p-0.436332312999 p0.0 p0.0 p0.349065850399 {Section_6} (Section_5) ;
+Module_1 p-1.0471975512 p0.0 p0.0 p0.0 {Section_7} (Section_6) ;
+Range_finder_0 p0.436332312999 p0.0 p0.0 p0.349065850399 {Section_7} (Section_6) ;
